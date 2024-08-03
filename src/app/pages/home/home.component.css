@@ -1,0 +1,34 @@
+img{
+    height: 100%;
+    width: 100%;
+    }
+    
+    .parentContainer {
+    position: relative;
+    text-align: center;
+    color: white;
+    }
+
+    .centered {
+    position: absolute;
+    top: 525px;
+    left: 720px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    }
+   .asim {
+    position: absolute;
+    top: 560px;
+    left: 650px;
+   }
+   a {
+    position: absolute;
+    top: 600px;
+    left: 730px;
+    color: white;
+   }
+   .space {
+    background-color: black;
+    height: 600px;
+   }
